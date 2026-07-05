@@ -1,5 +1,4 @@
-<h1>Security-Audit</h1>
-<br>
+<h1>Security Audit</h1>
 <h2>Description</h2>
 In this project we will complete a security audit for a made up company named Botium Toys. This is done as a part of the Cybersecurity Professional Certificate course offered by Google. Through this security audit we will learn about the scope of the company, their assets, and the controls or lack of controls that they have set based on such assets. By commiting to this security audit we will see what controls must be implemented in order to keep Botium Toys from being infringed upon and keep contintuity as the company branches out.
 <br>
@@ -24,3 +23,18 @@ Scope, Risks, and Compliance & Assets
 Asset Risks - Analysis
 <br><img src="https://i.imgur.com/BSm6D1V.png" height="80%" width="80%" alt="Analysis"/>
 <br>
+From this image I have placed multiple comments on what controls are missing in yellow, green is controls implemented
+<p align="left">
+- No Least Privellege implemented as all employees have access to PII, SPII, and Credit card Data</b>
+<br>- No Encryption is implemented showing lack of security
+<br>- Databases not securally located but rather located locally for anyone to access
+<br>- Seperation of duties not implemented giving same authority to all employees of the company
+<p align="center">
+<br><img src="https://i.imgur.com/au00tEA.png" height="80%" width="80%" alt="Analysis"/>
+<br>The following image continues comments placed on Controls needed
+<p align="left">
+<br>- No IDS system developed, major security risk as threats will pass through without warning
+<br>- No recovery plan from such threats showing lack of thought behind buisness contintuity
+<br>- Password fatigue due to minimum requirments for password
+<br>- Password policy not stated created a risk for security
+<br>- No regular schedule in place for these tasks and intervention methods are unclear.
